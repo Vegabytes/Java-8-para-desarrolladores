@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+/Users/alejandrocastillo/Documents/Java 8 para programadores Java/.metadata/.plugins/org.eclipse.jdt.core
+3547667065.index
+3128207647.index

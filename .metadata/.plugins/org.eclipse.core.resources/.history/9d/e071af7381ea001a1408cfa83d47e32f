@@ -1,0 +1,5 @@
+package encapsulacion.modelo;
+
+public class Persona {
+
+}
